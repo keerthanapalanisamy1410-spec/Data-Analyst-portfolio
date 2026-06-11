@@ -1,70 +1,60 @@
-# 📊 Data Analyst Portfolio
+# 📊 Sales Trend Analysis using Python
 
-## 👋 About Me
-Hello! I'm **Keerthana**, an aspiring **Data Analyst** with hands-on experience in **SQL, Python, Power BI, Excel, Data Visualization, Dashboard Development, and Business Intelligence**.
+## 📌 Project Overview
 
-I enjoy transforming raw data into meaningful insights and creating interactive dashboards that support data-driven decision-making.
+This project focuses on analyzing sales data to identify sales trends, customer purchasing patterns, and business growth opportunities. Using Python-based data analysis and visualization techniques, the project transforms raw sales data into meaningful business insights for data-driven decision-making.
 
----
+## 🎯 Objective
 
-## 🛠️ Technical Skills
+* Analyze historical sales data to identify trends and patterns.
+* Understand customer behavior and purchasing habits.
+* Discover revenue opportunities and business insights.
+* Support strategic decision-making through data analysis.
 
-- SQL (MySQL)
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Power BI
-- Microsoft Excel
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- Dashboard Development
-- Exploratory Data Analysis (EDA)
-- Statistics
+## 🛠️ Tools & Technologies
 
----
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Jupyter Notebook
 
-## 📂 Projects
+## 📈 Key Activities
 
-### 🐼 Python Mini Project
-**Tools:** Python, Pandas, NumPy, Matplotlib
+* Data Cleaning and Preprocessing
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+* Trend Identification
+* Data Visualization
+* Business Insight Generation
 
-- Cleaned and transformed raw data.
-- Performed Exploratory Data Analysis (EDA).
-- Created visualizations to identify trends and patterns.
-- Generated actionable insights from the dataset.
+## 🔍 Key Insights
 
----
+* Identified sales performance trends over time.
+* Analyzed customer purchasing behavior.
+* Evaluated product and revenue performance.
+* Generated actionable business recommendations.
 
-## 📈 Upcoming Projects
+## 📊 Skills Demonstrated
 
-### Customer Sales Analysis | SQL
-- Sales Analysis
-- Customer Behavior Analysis
-- Product Performance Analysis
+* Data Analysis
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+* Data Visualization
+* Business Analytics
+* Problem Solving
 
-### Sales & Customer Analysis Dashboard | Power BI
-- KPI Tracking
-- Customer Insights
-- Sales Performance Dashboard
+## 🚀 Outcome
 
-### Global Supermarket Dashboard | Excel
-- Automated Reporting
-- Sales & Profit Analysis
-- Interactive Dashboard
+Enhanced proficiency in Python-based data analysis, visualization, and trend identification while developing actionable business insights from real-world sales datasets.
 
----
+## 📷 Project Snapshot
 
-## 🎯 Career Objective
+(Add your dashboard, charts, or visualization screenshots here)
 
-To leverage my analytical skills and technical expertise to solve business problems, generate actionable insights, and contribute to data-driven decision-making as a Data Analyst.
+## 👩‍💻 Author
 
----
-
-## 📫 Contact
-
-📧 Email: keerthanapalanisamy1410@gmail.com
-
-📍 Location: Coimbatore, Tamil Nadu, India
-
----
-
-⭐ Feel free to explore my projects and connect with me!
+**P. Keerthana**
+Aspiring Data Analyst | Power BI Developer | BI Developer
+me!
